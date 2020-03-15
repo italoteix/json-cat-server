@@ -1,0 +1,687 @@
+{
+  "cats": [
+    {
+      "id": "1",
+      "imgURL": "https://cdn2.thecatapi.com/images/5rf.jpg",
+      "name": "Fluffy Jenkins",
+      "age": "3 years",
+      "fav": "Eating",
+      "peave": "Hairballs"
+    },
+    {
+      "id": "2",
+      "imgURL": "https://cdn2.thecatapi.com/images/5nr.jpg",
+      "name": "Birdie",
+      "age": "5 years",
+      "fav": "Sleeping",
+      "peave": "Loud noises"
+    },
+    {
+      "id": "3",
+      "imgURL": "https://cdn2.thecatapi.com/images/edd.jpg",
+      "name": "Tuna",
+      "age": "6 months",
+      "fav": "Playing",
+      "peave": "Hairballs"
+    },
+    {
+      "id": "4",
+      "imgURL": "https://cdn2.thecatapi.com/images/2iu.jpg",
+      "name": "Fluffy Jenkins",
+      "age": "3 years",
+      "fav": "Eating",
+      "peave": "None"
+    },
+    {
+      "id": "5",
+      "imgURL": "https://cdn2.thecatapi.com/images/eao.jpg",
+      "name": "Clawdia",
+      "age": "1 year",
+      "fav": "Staring",
+      "peave": "Hairballs"
+    },
+    {
+      "id": "6",
+      "imgURL": "https://cdn2.thecatapi.com/images/EEf-L2ubj.jpg",
+      "name": "Catzilla",
+      "age": "1 year",
+      "fav": "Meowing",
+      "peave": "No one listening"
+    },
+    {
+      "id": "7",
+      "imgURL": "https://cdn2.thecatapi.com/images/57u.jpg",
+      "name": "Gadget",
+      "age": "10 months",
+      "fav": "Hunting",
+      "peave": "Fast prey"
+    },
+    {
+      "id": "8",
+      "imgURL": "https://cdn2.thecatapi.com/images/dhl.jpg",
+      "name": "Sprinkles",
+      "age": "9 months",
+      "fav": "Eating",
+      "peave": "Other cats"
+    },
+    {
+      "id": "9",
+      "imgURL": "https://cdn2.thecatapi.com/images/btr.jpg",
+      "name": "Skittles",
+      "age": "2 years",
+      "fav": "Playing",
+      "peave": "Hairballs"
+    },
+    {
+      "id": "10",
+      "imgURL": "https://cdn2.thecatapi.com/images/oGefY4YoG.jpg",
+      "name": "FishFinder",
+      "age": "11 months",
+      "fav": "Watching Wildlife",
+      "peave": "Vacuum cleaners"
+    },
+    {
+      "id": "11",
+      "imgURL": "https://cdn2.thecatapi.com/images/ddf.jpg",
+      "name": "Longfang",
+      "age": "6 years",
+      "fav": "Stretching",
+      "peave": "Car rides"
+    },
+    {
+      "id": "12",
+      "imgURL": "https://cdn2.thecatapi.com/images/b41.jpg",
+      "name": "Tigre",
+      "age": "4 years",
+      "fav": "Scratching",
+      "peave": "Belled collars"
+    }
+  ],
+  "cat": [
+    {
+      "id": "1",
+      "imgURL": "https://cdn2.thecatapi.com/images/5rf.jpg",
+      "name": "Fluffy Jenkins",
+      "age": "3 years",
+      "fav": "Eating",
+      "peave": "Hairballs",
+      "location": "Search Cat Foundation",
+      "address": "13 Kiera Lake, Lake Ismael, NY 83183",
+      "bio": "Enim ea dolorum quia est aut ex debitis recusandae porro. Voluptate a in cum ut accusamus optio consectetur harum deserunt. Non nulla consequatur officiis qui nobis cum dolore reprehenderit. Et nihil vel a itaque doloremque. Eligendi ipsa tenetur exercitationem ipsam ex. At aut enim sequi maxime amet autem veniam ea voluptas.",
+      "medicalURL": "/",
+      "personality": [
+        {
+          "type": "Curious",
+          "value": 0.8
+        },
+        {
+          "type": "Friendly",
+          "value": 0.45
+        },
+        {
+          "type": "Energetic",
+          "value": 0.6
+        }
+      ],
+      "day": [
+        {
+          "type": "Meowing",
+          "value": 10
+        },
+        {
+          "type": "Hunting",
+          "value": 20
+        },
+        {
+          "type": "Sleeping",
+          "value": 30
+        },
+        {
+          "type": "Eating",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "imgURL": "https://cdn2.thecatapi.com/images/5nr.jpg",
+      "name": "Birdie",
+      "age": "5 years",
+      "fav": "Sleeping",
+      "peave": "Loud noises",
+      "location": "Siamese Cat Rescue Center",
+      "address": "4815 Lonely Oak Dr, Mobile, AL 36602",
+      "bio": "Molestiae nesciunt recusandae animi veniam itaque. Accusantium nesciunt in atque vitae. Eaque qui beatae in.",
+      "medicalURL": "/",
+      "personality": [
+        {
+          "type": "Curious",
+          "value": 0.7
+        },
+        {
+          "type": "Friendly",
+          "value": 0.35
+        },
+        {
+          "type": "Energetic",
+          "value": 0.5
+        }
+      ],
+      "day": [
+        {
+          "type": "Meowing",
+          "value": 40
+        },
+        {
+          "type": "Hunting",
+          "value": 30
+        },
+        {
+          "type": "Sleeping",
+          "value": 20
+        },
+        {
+          "type": "Eating",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "imgURL": "https://cdn2.thecatapi.com/images/edd.jpg",
+      "name": "Tuna",
+      "age": "6 months",
+      "fav": "Playing",
+      "peave": "Hairballs",
+      "location": "Dumb Friends League",
+      "address": "3711 Willow Greene Dr, Lowndesboro, AL 36752",
+      "bio": "Qui vero illum rerum sit. Maxime quia vel sunt ullam expedita animi corporis quia eius. Soluta omnis sunt rerum inventore. At facilis minus voluptatem in ut ea laboriosam. Amet omnis doloremque repellat eius repellat eos atque amet. Ut sequi sint blanditiis.",
+      "medicalURL": "/",
+      "personality": [
+        {
+          "type": "Curious",
+          "value": 0.3
+        },
+        {
+          "type": "Friendly",
+          "value": 0.5
+        },
+        {
+          "type": "Energetic",
+          "value": 0.7
+        }
+      ],
+      "day": [
+        {
+          "type": "Meowing",
+          "value": 10
+        },
+        {
+          "type": "Hunting",
+          "value": 5
+        },
+        {
+          "type": "Sleeping",
+          "value": 70
+        },
+        {
+          "type": "Eating",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "imgURL": "https://cdn2.thecatapi.com/images/2iu.jpg",
+      "name": "Nick",
+      "age": "2 years",
+      "fav": "Running",
+      "peave": "Cucumber",
+      "location": "Humane Society of the US",
+      "address": "4909 Kooter Lane, Lagunitas, CA 94938",
+      "bio": "Qui ex quia est. Et a autem et. Sequi iusto suscipit ut quo.",
+      "medicalURL": "/",
+      "personality": [
+        {
+          "type": "Curious",
+          "value": 1
+        },
+        {
+          "type": "Friendly",
+          "value": 0.65
+        },
+        {
+          "type": "Energetic",
+          "value": 0.8
+        }
+      ],
+      "day": [
+        {
+          "type": "Meowing",
+          "value": 33
+        },
+        {
+          "type": "Hunting",
+          "value": 33
+        },
+        {
+          "type": "Sleeping",
+          "value": 15
+        },
+        {
+          "type": "Eating",
+          "value": 18
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "imgURL": "https://cdn2.thecatapi.com/images/eao.jpg",
+      "name": "Clawdia",
+      "age": "1 year",
+      "fav": "Staring",
+      "peave": "Hairballs",
+      "location": "Kitten Associates",
+      "address": "3473 Lakeland Terrace, Southfield, MI 48075",
+      "bio": "Consequuntur adipisci et. Dolore numquam placeat voluptatibus perferendis voluptatum iste. Odit cum dolorem similique expedita id perferendis quis.",
+      "medicalURL": "/",
+      "personality": [
+        {
+          "type": "Curious",
+          "value": 0.55
+        },
+        {
+          "type": "Friendly",
+          "value": 0.9
+        },
+        {
+          "type": "Energetic",
+          "value": 0.7
+        }
+      ],
+      "day": [
+        {
+          "type": "Meowing",
+          "value": 12
+        },
+        {
+          "type": "Hunting",
+          "value": 3
+        },
+        {
+          "type": "Sleeping",
+          "value": 44
+        },
+        {
+          "type": "Eating",
+          "value": 41
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "imgURL": "https://cdn2.thecatapi.com/images/EEf-L2ubj.jpg",
+      "name": "Catzilla",
+      "age": "1 year",
+      "fav": "Meowing",
+      "peave": "No one listening",
+      "location": "Leannon Inc",
+      "address": "21632 Newland St, Huntington Beach, CA 92646",
+      "bio": "Catzilla is a spunky cat who likes to know what is going on at all times. He is curious, smart, and personable. He loves to meow, hunt, eat, and sleep. Catzilla also does not get along with other cats, but he likes dogs. Catzilla is in need of a loving, lasting home.",
+      "medicalURL": "/",
+      "personality": [
+        {
+          "type": "Curious",
+          "value": 0.9
+        },
+        {
+          "type": "Friendly",
+          "value": 0.55
+        },
+        {
+          "type": "Energetic",
+          "value": 0.7
+        }
+      ],
+      "day": [
+        {
+          "type": "Meowing",
+          "value": 25
+        },
+        {
+          "type": "Hunting",
+          "value": 7
+        },
+        {
+          "type": "Sleeping",
+          "value": 55
+        },
+        {
+          "type": "Eating",
+          "value": 13
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "imgURL": "https://cdn2.thecatapi.com/images/57u.jpg",
+      "name": "Gadget",
+      "age": "10 months",
+      "fav": "Hunting",
+      "peave": "Fast prey",
+      "location": "The Sato Project",
+      "address": "582 Science Center Dr, Eagle, ID 83642",
+      "bio": "Dolores in debitis quis non possimus possimus et nemo. Omnis sunt sed magnam accusantium. Iure non quia praesentium est aut dolorem minima nihil.",
+      "medicalURL": "/",
+      "personality": [
+        {
+          "type": "Curious",
+          "value": 0.7
+        },
+        {
+          "type": "Friendly",
+          "value": 0.55
+        },
+        {
+          "type": "Energetic",
+          "value": 0.9
+        }
+      ],
+      "day": [
+        {
+          "type": "Meowing",
+          "value": 7
+        },
+        {
+          "type": "Hunting",
+          "value": 25
+        },
+        {
+          "type": "Sleeping",
+          "value": 55
+        },
+        {
+          "type": "Eating",
+          "value": 13
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "imgURL": "https://cdn2.thecatapi.com/images/dhl.jpg",
+      "name": "Sprinkles",
+      "age": "9 months",
+      "fav": "Eating",
+      "peave": "Other cats",
+      "location": "Paws Placement",
+      "address": "4039 Dennison St, French Camp, CA 95231",
+      "bio": "Rerum est maxime quod cum officia. Ad nesciunt fugit est dolorum aliquid ea. Corrupti voluptate et et minus optio delectus quos saepe dicta. Omnis adipisci distinctio molestiae ducimus temporibus.",
+      "medicalURL": "/",
+      "personality": [
+        {
+          "type": "Curious",
+          "value": 0.55
+        },
+        {
+          "type": "Friendly",
+          "value": 0.7
+        },
+        {
+          "type": "Energetic",
+          "value": 0.9
+        }
+      ],
+      "day": [
+        {
+          "type": "Meowing",
+          "value": 13
+        },
+        {
+          "type": "Hunting",
+          "value": 12
+        },
+        {
+          "type": "Sleeping",
+          "value": 50
+        },
+        {
+          "type": "Eating",
+          "value": 25
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "imgURL": "https://cdn2.thecatapi.com/images/btr.jpg",
+      "name": "Skittles",
+      "age": "2 years",
+      "fav": "Playing",
+      "peave": "Hairballs",
+      "location": "PAWS Humane Society",
+      "address": "1847 Pike St, San Diego, CA 92109",
+      "bio": "Deserunt quia non quaerat odio molestias corrupti. Nostrum fuga dolor quia. Sit voluptate sit aliquam sint odio illum. Laudantium enim eos voluptate. Tempora deserunt sed eius voluptas occaecati fugit nemo quaerat qui.",
+      "medicalURL": "/",
+      "personality": [
+        {
+          "type": "Curious",
+          "value": 0.9
+        },
+        {
+          "type": "Friendly",
+          "value": 0.9
+        },
+        {
+          "type": "Energetic",
+          "value": 0.9
+        }
+      ],
+      "day": [
+        {
+          "type": "Meowing",
+          "value": 30
+        },
+        {
+          "type": "Hunting",
+          "value": 7
+        },
+        {
+          "type": "Sleeping",
+          "value": 40
+        },
+        {
+          "type": "Eating",
+          "value": 23
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "imgURL": "https://cdn2.thecatapi.com/images/oGefY4YoG.jpg",
+      "name": "FishFinder",
+      "age": "11 months",
+      "fav": "Watching Wildlife",
+      "peave": "Vacuum cleaners",
+      "location": "Pets for the Elderly",
+      "address": "4824 Radio Park Dr, Augusta, GA 30901",
+      "bio": "Accusantium et qui perferendis sed voluptates repudiandae sit quam. Facere dolorum dolore autem quod. Aspernatur voluptatem commodi. Ut non exercitationem qui doloremque quo. Voluptates atque in nisi ipsa.",
+      "medicalURL": "/",
+      "personality": [
+        {
+          "type": "Curious",
+          "value": 0.4
+        },
+        {
+          "type": "Friendly",
+          "value": 0.6
+        },
+        {
+          "type": "Energetic",
+          "value": 0.8
+        }
+      ],
+      "day": [
+        {
+          "type": "Meowing",
+          "value": 20
+        },
+        {
+          "type": "Hunting",
+          "value": 7
+        },
+        {
+          "type": "Sleeping",
+          "value": 50
+        },
+        {
+          "type": "Eating",
+          "value": 23
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "imgURL": "https://cdn2.thecatapi.com/images/ddf.jpg",
+      "name": "Longfang",
+      "age": "6 years",
+      "fav": "Stretching",
+      "peave": "Car rides",
+      "location": "PetSmart Charities",
+      "address": "2808 Southern Ave, Mason City, IA 50401",
+      "bio": "Dolores aut veritatis voluptates omnis quis illum cum. Minus tempora sunt quibusdam autem. Eos illo blanditiis vel. Autem modi explicabo non officia et. Voluptatibus quia quod architecto nihil et est aliquam est. Nihil et dolorem nesciunt harum velit.",
+      "medicalURL": "/",
+      "personality": [
+        {
+          "type": "Curious",
+          "value": 0.9
+        },
+        {
+          "type": "Friendly",
+          "value": 0.8
+        },
+        {
+          "type": "Energetic",
+          "value": 0.75
+        }
+      ],
+      "day": [
+        {
+          "type": "Meowing",
+          "value": 32
+        },
+        {
+          "type": "Hunting",
+          "value": 20
+        },
+        {
+          "type": "Sleeping",
+          "value": 35
+        },
+        {
+          "type": "Eating",
+          "value": 13
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "imgURL": "https://cdn2.thecatapi.com/images/b41.jpg",
+      "name": "Tigre",
+      "age": "4 years",
+      "fav": "Scratching",
+      "peave": "Belled collars",
+      "location": "Save-A-Pet",
+      "address": "916 Stone Lane, Harbor Beach, MI 48441",
+      "bio": "Velit voluptatem eius aperiam ab consectetur maxime qui modi repudiandae. Quidem dolorem eum alias iure error unde. Laborum error animi laborum aut molestias doloribus error vitae.",
+      "medicalURL": "/",
+      "personality": [
+        {
+          "type": "Curious",
+          "value": 0.7
+        },
+        {
+          "type": "Friendly",
+          "value": 0.8
+        },
+        {
+          "type": "Energetic",
+          "value": 0.6
+        }
+      ],
+      "day": [
+        {
+          "type": "Meowing",
+          "value": 25
+        },
+        {
+          "type": "Hunting",
+          "value": 7
+        },
+        {
+          "type": "Sleeping",
+          "value": 55
+        },
+        {
+          "type": "Eating",
+          "value": 13
+        }
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "How to find the purrrfect pet",
+      "url": "/"
+    },
+    {
+      "id": "2",
+      "title": "What to do with your new cat",
+      "url": "/"
+    },
+    {
+      "id": "3",
+      "title": "How to potty-train your cat",
+      "url": "/"
+    },
+    {
+      "id": "4",
+      "title": "Raw food diets for cats",
+      "url": "/"
+    },
+    {
+      "id": "5",
+      "title": "Homemade treat recipes",
+      "url": "/"
+    },
+    {
+      "id": "6",
+      "title": "Our favorite litter brands",
+      "url": "/"
+    },
+    {
+      "id": "7",
+      "title": "Are cat breeds a thing?",
+      "url": "/"
+    },
+    {
+      "id": "8",
+      "title": "Our favorite caturday activities",
+      "url": "/"
+    },
+    {
+      "id": "9",
+      "title": "How to travel with your cat",
+      "url": "/"
+    },
+    {
+      "id": "10",
+      "title": "How to manage multiple cats",
+      "url": "/"
+    },
+    {
+      "id": "11",
+      "title": "The best cat memes, ranked",
+      "url": "/"
+    }
+  ]
+}
